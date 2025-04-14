@@ -1,0 +1,605 @@
+,Warehouse,Assigned Vendor,Volume Capacity (cm³),City,State,Region
+0,Warehouse_1,Vendor_1,1725537181,Henderson,Kentucky,South
+1,Warehouse_1,Vendor_1,1725537181,Richmond,Kentucky,South
+2,Warehouse_1,Vendor_1,1725537181,Louisville,Kentucky,South
+3,Warehouse_1,Vendor_1,1725537181,Florence,Kentucky,South
+4,Warehouse_1,Vendor_1,1725537181,Murray,Kentucky,South
+5,Warehouse_1,Vendor_1,1725537181,Bowling Green,Kentucky,South
+6,Warehouse_1,Vendor_1,1725537181,Georgetown,Kentucky,South
+7,Warehouse_1,Vendor_1,1725537181,Owensboro,Kentucky,South
+8,Warehouse_2,Vendor_2,3283276678,Los Angeles,California,West
+9,Warehouse_2,Vendor_2,3283276678,San Francisco,California,West
+10,Warehouse_2,Vendor_2,3283276678,Roseville,California,West
+11,Warehouse_2,Vendor_2,3283276678,Pasadena,California,West
+12,Warehouse_2,Vendor_2,3283276678,San Jose,California,West
+13,Warehouse_2,Vendor_2,3283276678,Redlands,California,West
+14,Warehouse_2,Vendor_2,3283276678,Whittier,California,West
+15,Warehouse_2,Vendor_2,3283276678,Santa Clara,California,West
+16,Warehouse_2,Vendor_2,3283276678,San Diego,California,West
+17,Warehouse_2,Vendor_2,3283276678,Brentwood,California,West
+18,Warehouse_2,Vendor_2,3283276678,Inglewood,California,West
+19,Warehouse_2,Vendor_2,3283276678,Long Beach,California,West
+20,Warehouse_2,Vendor_2,3283276678,Hesperia,California,West
+21,Warehouse_2,Vendor_2,3283276678,Huntington Beach,California,West
+22,Warehouse_2,Vendor_2,3283276678,Concord,California,West
+23,Warehouse_2,Vendor_2,3283276678,Costa Mesa,California,West
+24,Warehouse_2,Vendor_2,3283276678,Anaheim,California,West
+25,Warehouse_2,Vendor_2,3283276678,Vallejo,California,West
+26,Warehouse_2,Vendor_2,3283276678,Mission Viejo,California,West
+27,Warehouse_2,Vendor_2,3283276678,Lancaster,California,West
+28,Warehouse_2,Vendor_2,3283276678,Lake Elsinore,California,West
+29,Warehouse_2,Vendor_2,3283276678,Santa Ana,California,West
+30,Warehouse_2,Vendor_2,3283276678,Salinas,California,West
+31,Warehouse_2,Vendor_2,3283276678,Riverside,California,West
+32,Warehouse_2,Vendor_2,3283276678,Torrance,California,West
+33,Warehouse_2,Vendor_2,3283276678,Oceanside,California,West
+34,Warehouse_2,Vendor_2,3283276678,Murrieta,California,West
+35,Warehouse_2,Vendor_2,3283276678,Oakland,California,West
+36,Warehouse_2,Vendor_2,3283276678,Encinitas,California,West
+37,Warehouse_2,Vendor_2,3283276678,Antioch,California,West
+38,Warehouse_2,Vendor_2,3283276678,Escondido,California,West
+39,Warehouse_2,Vendor_2,3283276678,Fresno,California,West
+40,Warehouse_2,Vendor_2,3283276678,Fairfield,California,West
+41,Warehouse_2,Vendor_2,3283276678,Pico Rivera,California,West
+42,Warehouse_2,Vendor_2,3283276678,Westminster,California,West
+43,Warehouse_2,Vendor_2,3283276678,Pomona,California,West
+44,Warehouse_2,Vendor_2,3283276678,Laguna Niguel,California,West
+45,Warehouse_2,Vendor_2,3283276678,San Bernardino,California,West
+46,Warehouse_2,Vendor_2,3283276678,Ontario,California,West
+47,Warehouse_2,Vendor_2,3283276678,Rancho Cucamonga,California,West
+48,Warehouse_2,Vendor_2,3283276678,Stockton,California,West
+49,Warehouse_2,Vendor_2,3283276678,Sunnyvale,California,West
+50,Warehouse_2,Vendor_2,3283276678,Manteca,California,West
+51,Warehouse_2,Vendor_2,3283276678,Sacramento,California,West
+52,Warehouse_2,Vendor_2,3283276678,Thousand Oaks,California,West
+53,Warehouse_2,Vendor_2,3283276678,Coachella,California,West
+54,Warehouse_2,Vendor_2,3283276678,La Quinta,California,West
+55,Warehouse_2,Vendor_2,3283276678,Vacaville,California,West
+56,Warehouse_2,Vendor_2,3283276678,Bakersfield,California,West
+57,Warehouse_2,Vendor_2,3283276678,Redondo Beach,California,West
+58,Warehouse_2,Vendor_2,3283276678,Apple Valley,California,West
+59,Warehouse_2,Vendor_2,3283276678,Woodland,California,West
+60,Warehouse_2,Vendor_2,3283276678,San Mateo,California,West
+61,Warehouse_2,Vendor_2,3283276678,Visalia,California,West
+62,Warehouse_2,Vendor_2,3283276678,Temecula,California,West
+63,Warehouse_2,Vendor_2,3283276678,Yucaipa,California,West
+64,Warehouse_2,Vendor_2,3283276678,Chula Vista,California,West
+65,Warehouse_2,Vendor_2,3283276678,Lakewood,California,West
+66,Warehouse_2,Vendor_2,3283276678,Citrus Heights,California,West
+67,Warehouse_2,Vendor_2,3283276678,San Gabriel,California,West
+68,Warehouse_2,Vendor_2,3283276678,Danville,California,West
+69,Warehouse_2,Vendor_2,3283276678,Moreno Valley,California,West
+70,Warehouse_2,Vendor_2,3283276678,Santa Barbara,California,West
+71,Warehouse_2,Vendor_2,3283276678,La Mesa,California,West
+72,Warehouse_2,Vendor_2,3283276678,Lake Forest,California,West
+73,Warehouse_2,Vendor_2,3283276678,Redding,California,West
+74,Warehouse_2,Vendor_2,3283276678,Chico,California,West
+75,Warehouse_2,Vendor_2,3283276678,Redwood City,California,West
+76,Warehouse_2,Vendor_2,3283276678,Santa Maria,California,West
+77,Warehouse_2,Vendor_2,3283276678,Oxnard,California,West
+78,Warehouse_2,Vendor_2,3283276678,Montebello,California,West
+79,Warehouse_2,Vendor_2,3283276678,El Cajon,California,West
+80,Warehouse_2,Vendor_2,3283276678,Camarillo,California,West
+81,Warehouse_2,Vendor_2,3283276678,Burbank,California,West
+82,Warehouse_2,Vendor_2,3283276678,Modesto,California,West
+83,Warehouse_2,Vendor_2,3283276678,Davis,California,West
+84,Warehouse_2,Vendor_2,3283276678,Morgan Hill,California,West
+85,Warehouse_2,Vendor_2,3283276678,San Clemente,California,West
+86,Warehouse_2,Vendor_2,3283276678,Dublin,California,West
+87,Warehouse_2,Vendor_2,3283276678,San Luis Obispo,California,West
+88,Warehouse_2,Vendor_2,3283276678,Lodi,California,West
+89,Warehouse_3,Vendor_3,2345325778,Fort Lauderdale,Florida,South
+90,Warehouse_3,Vendor_3,2345325778,Melbourne,Florida,South
+91,Warehouse_3,Vendor_3,2345325778,Tampa,Florida,South
+92,Warehouse_3,Vendor_3,2345325778,Tamarac,Florida,South
+93,Warehouse_3,Vendor_3,2345325778,Saint Petersburg,Florida,South
+94,Warehouse_3,Vendor_3,2345325778,Pembroke Pines,Florida,South
+95,Warehouse_3,Vendor_3,2345325778,Miami,Florida,South
+96,Warehouse_3,Vendor_3,2345325778,Jacksonville,Florida,South
+97,Warehouse_3,Vendor_3,2345325778,Lakeland,Florida,South
+98,Warehouse_3,Vendor_3,2345325778,Palm Coast,Florida,South
+99,Warehouse_3,Vendor_3,2345325778,Hialeah,Florida,South
+100,Warehouse_3,Vendor_3,2345325778,Boca Raton,Florida,South
+101,Warehouse_3,Vendor_3,2345325778,Homestead,Florida,South
+102,Warehouse_3,Vendor_3,2345325778,Coral Springs,Florida,South
+103,Warehouse_3,Vendor_3,2345325778,Boynton Beach,Florida,South
+104,Warehouse_3,Vendor_3,2345325778,Deltona,Florida,South
+105,Warehouse_3,Vendor_3,2345325778,Port Orange,Florida,South
+106,Warehouse_3,Vendor_3,2345325778,Apopka,Florida,South
+107,Warehouse_3,Vendor_3,2345325778,Ormond Beach,Florida,South
+108,Warehouse_3,Vendor_3,2345325778,Tallahassee,Florida,South
+109,Warehouse_3,Vendor_3,2345325778,Pompano Beach,Florida,South
+110,Warehouse_3,Vendor_3,2345325778,Orlando,Florida,South
+111,Warehouse_3,Vendor_3,2345325778,North Miami,Florida,South
+112,Warehouse_3,Vendor_3,2345325778,Plantation,Florida,South
+113,Warehouse_3,Vendor_3,2345325778,Port Saint Lucie,Florida,South
+114,Warehouse_3,Vendor_3,2345325778,Miramar,Florida,South
+115,Warehouse_3,Vendor_3,2345325778,Hollywood,Florida,South
+116,Warehouse_3,Vendor_3,2345325778,Daytona Beach,Florida,South
+117,Warehouse_3,Vendor_3,2345325778,Margate,Florida,South
+118,Warehouse_3,Vendor_3,2345325778,Pensacola,Florida,South
+119,Warehouse_3,Vendor_3,2345325778,Jupiter,Florida,South
+120,Warehouse_3,Vendor_3,2345325778,Delray Beach,Florida,South
+121,Warehouse_3,Vendor_3,2345325778,West Palm Beach,Florida,South
+122,Warehouse_3,Vendor_3,2345325778,Kissimmee,Florida,South
+123,Warehouse_3,Vendor_3,2345325778,Sanford,Florida,South
+124,Warehouse_3,Vendor_3,2345325778,Coral Gables,Florida,South
+125,Warehouse_4,Vendor_4,769873987,Concord,North Carolina,South
+126,Warehouse_4,Vendor_4,769873987,Durham,North Carolina,South
+127,Warehouse_4,Vendor_4,769873987,Charlotte,North Carolina,South
+128,Warehouse_4,Vendor_4,769873987,Chapel Hill,North Carolina,South
+129,Warehouse_4,Vendor_4,769873987,Wilmington,North Carolina,South
+130,Warehouse_4,Vendor_4,769873987,Gastonia,North Carolina,South
+131,Warehouse_4,Vendor_4,769873987,Burlington,North Carolina,South
+132,Warehouse_4,Vendor_4,769873987,Cary,North Carolina,South
+133,Warehouse_4,Vendor_4,769873987,Asheville,North Carolina,South
+134,Warehouse_4,Vendor_4,769873987,Jacksonville,North Carolina,South
+135,Warehouse_4,Vendor_4,769873987,Monroe,North Carolina,South
+136,Warehouse_4,Vendor_4,769873987,Greenville,North Carolina,South
+137,Warehouse_4,Vendor_4,769873987,Thomasville,North Carolina,South
+138,Warehouse_4,Vendor_4,769873987,Fayetteville,North Carolina,South
+139,Warehouse_4,Vendor_4,769873987,Greensboro,North Carolina,South
+140,Warehouse_4,Vendor_4,769873987,Raleigh,North Carolina,South
+141,Warehouse_4,Vendor_4,769873987,Hickory,North Carolina,South
+142,Warehouse_4,Vendor_4,769873987,Wilson,North Carolina,South
+143,Warehouse_4,Vendor_4,769873987,Goldsboro,North Carolina,South
+144,Warehouse_5,Vendor_5,3491575762,Seattle,Washington,West
+145,Warehouse_5,Vendor_5,3491575762,Des Moines,Washington,West
+146,Warehouse_5,Vendor_5,3491575762,Marysville,Washington,West
+147,Warehouse_5,Vendor_5,3491575762,Vancouver,Washington,West
+148,Warehouse_5,Vendor_5,3491575762,Edmonds,Washington,West
+149,Warehouse_5,Vendor_5,3491575762,Olympia,Washington,West
+150,Warehouse_5,Vendor_5,3491575762,Bellevue,Washington,West
+151,Warehouse_5,Vendor_5,3491575762,Kent,Washington,West
+152,Warehouse_5,Vendor_5,3491575762,Auburn,Washington,West
+153,Warehouse_5,Vendor_5,3491575762,Spokane,Washington,West
+154,Warehouse_5,Vendor_5,3491575762,Bellingham,Washington,West
+155,Warehouse_5,Vendor_5,3491575762,Covington,Washington,West
+156,Warehouse_5,Vendor_5,3491575762,Redmond,Washington,West
+157,Warehouse_5,Vendor_5,3491575762,Pasco,Washington,West
+158,Warehouse_5,Vendor_5,3491575762,Longview,Washington,West
+159,Warehouse_5,Vendor_5,3491575762,Renton,Washington,West
+160,Warehouse_5,Vendor_5,3491575762,Everett,Washington,West
+161,Warehouse_6,Vendor_6,2462987270,Fort Worth,Texas,Central
+162,Warehouse_6,Vendor_6,2462987270,Houston,Texas,Central
+163,Warehouse_6,Vendor_6,2462987270,Richardson,Texas,Central
+164,Warehouse_6,Vendor_6,2462987270,San Antonio,Texas,Central
+165,Warehouse_6,Vendor_6,2462987270,Grand Prairie,Texas,Central
+166,Warehouse_6,Vendor_6,2462987270,Dallas,Texas,Central
+167,Warehouse_6,Vendor_6,2462987270,Pasadena,Texas,Central
+168,Warehouse_6,Vendor_6,2462987270,Austin,Texas,Central
+169,Warehouse_6,Vendor_6,2462987270,Harlingen,Texas,Central
+170,Warehouse_6,Vendor_6,2462987270,Amarillo,Texas,Central
+171,Warehouse_6,Vendor_6,2462987270,Huntsville,Texas,Central
+172,Warehouse_6,Vendor_6,2462987270,Laredo,Texas,Central
+173,Warehouse_6,Vendor_6,2462987270,Arlington,Texas,Central
+174,Warehouse_6,Vendor_6,2462987270,Tyler,Texas,Central
+175,Warehouse_6,Vendor_6,2462987270,Garland,Texas,Central
+176,Warehouse_6,Vendor_6,2462987270,Round Rock,Texas,Central
+177,Warehouse_6,Vendor_6,2462987270,Brownsville,Texas,Central
+178,Warehouse_6,Vendor_6,2462987270,Irving,Texas,Central
+179,Warehouse_6,Vendor_6,2462987270,Coppell,Texas,Central
+180,Warehouse_6,Vendor_6,2462987270,Allen,Texas,Central
+181,Warehouse_6,Vendor_6,2462987270,El Paso,Texas,Central
+182,Warehouse_6,Vendor_6,2462987270,Grapevine,Texas,Central
+183,Warehouse_6,Vendor_6,2462987270,Carrollton,Texas,Central
+184,Warehouse_6,Vendor_6,2462987270,Plano,Texas,Central
+185,Warehouse_6,Vendor_6,2462987270,Keller,Texas,Central
+186,Warehouse_6,Vendor_6,2462987270,Lubbock,Texas,Central
+187,Warehouse_6,Vendor_6,2462987270,Mesquite,Texas,Central
+188,Warehouse_6,Vendor_6,2462987270,College Station,Texas,Central
+189,Warehouse_6,Vendor_6,2462987270,San Angelo,Texas,Central
+190,Warehouse_6,Vendor_6,2462987270,Haltom City,Texas,Central
+191,Warehouse_6,Vendor_6,2462987270,Frisco,Texas,Central
+192,Warehouse_6,Vendor_6,2462987270,Corpus Christi,Texas,Central
+193,Warehouse_6,Vendor_6,2462987270,Pharr,Texas,Central
+194,Warehouse_6,Vendor_6,2462987270,Missouri City,Texas,Central
+195,Warehouse_6,Vendor_6,2462987270,Pearland,Texas,Central
+196,Warehouse_6,Vendor_6,2462987270,Conroe,Texas,Central
+197,Warehouse_6,Vendor_6,2462987270,Odessa,Texas,Central
+198,Warehouse_6,Vendor_6,2462987270,Edinburg,Texas,Central
+199,Warehouse_6,Vendor_6,2462987270,Baytown,Texas,Central
+200,Warehouse_6,Vendor_6,2462987270,Bedford,Texas,Central
+201,Warehouse_6,Vendor_6,2462987270,Deer Park,Texas,Central
+202,Warehouse_6,Vendor_6,2462987270,Mcallen,Texas,Central
+203,Warehouse_6,Vendor_6,2462987270,Port Arthur,Texas,Central
+204,Warehouse_6,Vendor_6,2462987270,The Colony,Texas,Central
+205,Warehouse_6,Vendor_6,2462987270,League City,Texas,Central
+206,Warehouse_6,Vendor_6,2462987270,Waco,Texas,Central
+207,Warehouse_6,Vendor_6,2462987270,Cedar Hill,Texas,Central
+208,Warehouse_6,Vendor_6,2462987270,Texas City,Texas,Central
+209,Warehouse_6,Vendor_6,2462987270,Beaumont,Texas,Central
+210,Warehouse_6,Vendor_6,2462987270,Abilene,Texas,Central
+211,Warehouse_6,Vendor_6,2462987270,San Marcos,Texas,Central
+212,Warehouse_6,Vendor_6,2462987270,Mansfield,Texas,Central
+213,Warehouse_6,Vendor_6,2462987270,Bryan,Texas,Central
+214,Warehouse_6,Vendor_6,2462987270,La Porte,Texas,Central
+215,Warehouse_7,Vendor_7,4412245425,Madison,Wisconsin,Central
+216,Warehouse_7,Vendor_7,4412245425,Franklin,Wisconsin,Central
+217,Warehouse_7,Vendor_7,4412245425,Green Bay,Wisconsin,Central
+218,Warehouse_7,Vendor_7,4412245425,Milwaukee,Wisconsin,Central
+219,Warehouse_7,Vendor_7,4412245425,Appleton,Wisconsin,Central
+220,Warehouse_7,Vendor_7,4412245425,Kenosha,Wisconsin,Central
+221,Warehouse_7,Vendor_7,4412245425,Waukesha,Wisconsin,Central
+222,Warehouse_7,Vendor_7,4412245425,Eau Claire,Wisconsin,Central
+223,Warehouse_7,Vendor_7,4412245425,West Allis,Wisconsin,Central
+224,Warehouse_7,Vendor_7,4412245425,Superior,Wisconsin,Central
+225,Warehouse_7,Vendor_7,4412245425,La Crosse,Wisconsin,Central
+226,Warehouse_7,Vendor_7,4412245425,Wausau,Wisconsin,Central
+227,Warehouse_7,Vendor_7,4412245425,Sheboygan,Wisconsin,Central
+228,Warehouse_8,Vendor_8,3491626382,West Jordan,Utah,West
+229,Warehouse_8,Vendor_8,3491626382,Orem,Utah,West
+230,Warehouse_8,Vendor_8,3491626382,Layton,Utah,West
+231,Warehouse_8,Vendor_8,3491626382,Provo,Utah,West
+232,Warehouse_8,Vendor_8,3491626382,Pleasant Grove,Utah,West
+233,Warehouse_8,Vendor_8,3491626382,Salt Lake City,Utah,West
+234,Warehouse_8,Vendor_8,3491626382,Murray,Utah,West
+235,Warehouse_8,Vendor_8,3491626382,Logan,Utah,West
+236,Warehouse_8,Vendor_8,3491626382,Lehi,Utah,West
+237,Warehouse_8,Vendor_8,3491626382,Draper,Utah,West
+238,Warehouse_9,Vendor_9,1530270161,Fremont,Nebraska,Central
+239,Warehouse_9,Vendor_9,1530270161,Omaha,Nebraska,Central
+240,Warehouse_9,Vendor_9,1530270161,Grand Island,Nebraska,Central
+241,Warehouse_9,Vendor_9,1530270161,Norfolk,Nebraska,Central
+242,Warehouse_10,Vendor_10,2101765972,Philadelphia,Pennsylvania,East
+243,Warehouse_10,Vendor_10,2101765972,Chester,Pennsylvania,East
+244,Warehouse_10,Vendor_10,2101765972,Lancaster,Pennsylvania,East
+245,Warehouse_10,Vendor_10,2101765972,Allentown,Pennsylvania,East
+246,Warehouse_10,Vendor_10,2101765972,Reading,Pennsylvania,East
+247,Warehouse_10,Vendor_10,2101765972,York,Pennsylvania,East
+248,Warehouse_10,Vendor_10,2101765972,Altoona,Pennsylvania,East
+249,Warehouse_10,Vendor_10,2101765972,Bethlehem,Pennsylvania,East
+250,Warehouse_11,Vendor_11,443864859,Naperville,Illinois,Central
+251,Warehouse_11,Vendor_11,443864859,Chicago,Illinois,Central
+252,Warehouse_11,Vendor_11,443864859,Orland Park,Illinois,Central
+253,Warehouse_11,Vendor_11,443864859,Bloomington,Illinois,Central
+254,Warehouse_11,Vendor_11,443864859,Decatur,Illinois,Central
+255,Warehouse_11,Vendor_11,443864859,Quincy,Illinois,Central
+256,Warehouse_11,Vendor_11,443864859,Peoria,Illinois,Central
+257,Warehouse_11,Vendor_11,443864859,Park Ridge,Illinois,Central
+258,Warehouse_11,Vendor_11,443864859,Aurora,Illinois,Central
+259,Warehouse_11,Vendor_11,443864859,Evanston,Illinois,Central
+260,Warehouse_11,Vendor_11,443864859,Rockford,Illinois,Central
+261,Warehouse_11,Vendor_11,443864859,Skokie,Illinois,Central
+262,Warehouse_11,Vendor_11,443864859,Elmhurst,Illinois,Central
+263,Warehouse_11,Vendor_11,443864859,Woodstock,Illinois,Central
+264,Warehouse_11,Vendor_11,443864859,Wheeling,Illinois,Central
+265,Warehouse_11,Vendor_11,443864859,Highland Park,Illinois,Central
+266,Warehouse_11,Vendor_11,443864859,Bolingbrook,Illinois,Central
+267,Warehouse_11,Vendor_11,443864859,Tinley Park,Illinois,Central
+268,Warehouse_11,Vendor_11,443864859,Carol Stream,Illinois,Central
+269,Warehouse_11,Vendor_11,443864859,Champaign,Illinois,Central
+270,Warehouse_11,Vendor_11,443864859,Freeport,Illinois,Central
+271,Warehouse_11,Vendor_11,443864859,Danville,Illinois,Central
+272,Warehouse_11,Vendor_11,443864859,Oak Park,Illinois,Central
+273,Warehouse_11,Vendor_11,443864859,Frankfort,Illinois,Central
+274,Warehouse_11,Vendor_11,443864859,Buffalo Grove,Illinois,Central
+275,Warehouse_11,Vendor_11,443864859,Des Plaines,Illinois,Central
+276,Warehouse_11,Vendor_11,443864859,Palatine,Illinois,Central
+277,Warehouse_11,Vendor_11,443864859,Glenview,Illinois,Central
+278,Warehouse_11,Vendor_11,443864859,Normal,Illinois,Central
+279,Warehouse_11,Vendor_11,443864859,Saint Charles,Illinois,Central
+280,Warehouse_11,Vendor_11,443864859,Romeoville,Illinois,Central
+281,Warehouse_11,Vendor_11,443864859,Arlington Heights,Illinois,Central
+282,Warehouse_11,Vendor_11,443864859,Oswego,Illinois,Central
+283,Warehouse_12,Vendor_12,2804556170,Eagan,Minnesota,Central
+284,Warehouse_12,Vendor_12,2804556170,Rochester,Minnesota,Central
+285,Warehouse_12,Vendor_12,2804556170,Minneapolis,Minnesota,Central
+286,Warehouse_12,Vendor_12,2804556170,Saint Paul,Minnesota,Central
+287,Warehouse_12,Vendor_12,2804556170,Lakeville,Minnesota,Central
+288,Warehouse_12,Vendor_12,2804556170,Cottage Grove,Minnesota,Central
+289,Warehouse_12,Vendor_12,2804556170,Moorhead,Minnesota,Central
+290,Warehouse_12,Vendor_12,2804556170,Apple Valley,Minnesota,Central
+291,Warehouse_12,Vendor_12,2804556170,Maple Grove,Minnesota,Central
+292,Warehouse_12,Vendor_12,2804556170,Saint Cloud,Minnesota,Central
+293,Warehouse_12,Vendor_12,2804556170,Roseville,Minnesota,Central
+294,Warehouse_12,Vendor_12,2804556170,Woodbury,Minnesota,Central
+295,Warehouse_12,Vendor_12,2804556170,Coon Rapids,Minnesota,Central
+296,Warehouse_13,Vendor_13,825661883,Westland,Michigan,Central
+297,Warehouse_13,Vendor_13,825661883,Jackson,Michigan,Central
+298,Warehouse_13,Vendor_13,825661883,Saginaw,Michigan,Central
+299,Warehouse_13,Vendor_13,825661883,Detroit,Michigan,Central
+300,Warehouse_13,Vendor_13,825661883,Taylor,Michigan,Central
+301,Warehouse_13,Vendor_13,825661883,Canton,Michigan,Central
+302,Warehouse_13,Vendor_13,825661883,Dearborn,Michigan,Central
+303,Warehouse_13,Vendor_13,825661883,Rochester Hills,Michigan,Central
+304,Warehouse_13,Vendor_13,825661883,Trenton,Michigan,Central
+305,Warehouse_13,Vendor_13,825661883,Lansing,Michigan,Central
+306,Warehouse_13,Vendor_13,825661883,Royal Oak,Michigan,Central
+307,Warehouse_13,Vendor_13,825661883,Lincoln Park,Michigan,Central
+308,Warehouse_13,Vendor_13,825661883,Midland,Michigan,Central
+309,Warehouse_13,Vendor_13,825661883,Sterling Heights,Michigan,Central
+310,Warehouse_13,Vendor_13,825661883,Grand Rapids,Michigan,Central
+311,Warehouse_13,Vendor_13,825661883,Dearborn Heights,Michigan,Central
+312,Warehouse_13,Vendor_13,825661883,Mount Pleasant,Michigan,Central
+313,Warehouse_13,Vendor_13,825661883,Roseville,Michigan,Central
+314,Warehouse_13,Vendor_13,825661883,Oak Park,Michigan,Central
+315,Warehouse_13,Vendor_13,825661883,Ann Arbor,Michigan,Central
+316,Warehouse_13,Vendor_13,825661883,Holland,Michigan,Central
+317,Warehouse_14,Vendor_14,1874518659,Dover,Delaware,East
+318,Warehouse_14,Vendor_14,1874518659,Wilmington,Delaware,East
+319,Warehouse_14,Vendor_14,1874518659,Newark,Delaware,East
+320,Warehouse_15,Vendor_15,2203477344,New Albany,Indiana,Central
+321,Warehouse_15,Vendor_15,2203477344,Columbus,Indiana,Central
+322,Warehouse_15,Vendor_15,2203477344,Richmond,Indiana,Central
+323,Warehouse_15,Vendor_15,2203477344,La Porte,Indiana,Central
+324,Warehouse_15,Vendor_15,2203477344,Indianapolis,Indiana,Central
+325,Warehouse_15,Vendor_15,2203477344,South Bend,Indiana,Central
+326,Warehouse_15,Vendor_15,2203477344,New Castle,Indiana,Central
+327,Warehouse_15,Vendor_15,2203477344,Lafayette,Indiana,Central
+328,Warehouse_15,Vendor_15,2203477344,Mishawaka,Indiana,Central
+329,Warehouse_15,Vendor_15,2203477344,Noblesville,Indiana,Central
+330,Warehouse_15,Vendor_15,2203477344,Lawrence,Indiana,Central
+331,Warehouse_15,Vendor_15,2203477344,Bloomington,Indiana,Central
+332,Warehouse_15,Vendor_15,2203477344,Greenwood,Indiana,Central
+333,Warehouse_15,Vendor_15,2203477344,Portage,Indiana,Central
+334,Warehouse_15,Vendor_15,2203477344,Elkhart,Indiana,Central
+335,Warehouse_16,Vendor_16,4268410869,New York City,New York,East
+336,Warehouse_16,Vendor_16,4268410869,Troy,New York,East
+337,Warehouse_16,Vendor_16,4268410869,New Rochelle,New York,East
+338,Warehouse_16,Vendor_16,4268410869,Auburn,New York,East
+339,Warehouse_16,Vendor_16,4268410869,Lindenhurst,New York,East
+340,Warehouse_16,Vendor_16,4268410869,Rochester,New York,East
+341,Warehouse_16,Vendor_16,4268410869,Mount Vernon,New York,East
+342,Warehouse_16,Vendor_16,4268410869,Oceanside,New York,East
+343,Warehouse_16,Vendor_16,4268410869,Yonkers,New York,East
+344,Warehouse_16,Vendor_16,4268410869,Buffalo,New York,East
+345,Warehouse_16,Vendor_16,4268410869,Long Beach,New York,East
+346,Warehouse_16,Vendor_16,4268410869,Freeport,New York,East
+347,Warehouse_16,Vendor_16,4268410869,Niagara Falls,New York,East
+348,Warehouse_16,Vendor_16,4268410869,Watertown,New York,East
+349,Warehouse_16,Vendor_16,4268410869,Jamestown,New York,East
+350,Warehouse_16,Vendor_16,4268410869,Hempstead,New York,East
+351,Warehouse_16,Vendor_16,4268410869,Rome,New York,East
+352,Warehouse_16,Vendor_16,4268410869,Utica,New York,East
+353,Warehouse_17,Vendor_17,3640613060,Gilbert,Arizona,West
+354,Warehouse_17,Vendor_17,3640613060,Phoenix,Arizona,West
+355,Warehouse_17,Vendor_17,3640613060,Scottsdale,Arizona,West
+356,Warehouse_17,Vendor_17,3640613060,Tucson,Arizona,West
+357,Warehouse_17,Vendor_17,3640613060,Mesa,Arizona,West
+358,Warehouse_17,Vendor_17,3640613060,Sierra Vista,Arizona,West
+359,Warehouse_17,Vendor_17,3640613060,Glendale,Arizona,West
+360,Warehouse_17,Vendor_17,3640613060,Tempe,Arizona,West
+361,Warehouse_17,Vendor_17,3640613060,Peoria,Arizona,West
+362,Warehouse_17,Vendor_17,3640613060,Bullhead City,Arizona,West
+363,Warehouse_17,Vendor_17,3640613060,Avondale,Arizona,West
+364,Warehouse_17,Vendor_17,3640613060,Yuma,Arizona,West
+365,Warehouse_17,Vendor_17,3640613060,Chandler,Arizona,West
+366,Warehouse_18,Vendor_18,3036214976,Springfield,Virginia,South
+367,Warehouse_18,Vendor_18,3036214976,Arlington,Virginia,South
+368,Warehouse_18,Vendor_18,3036214976,Waynesboro,Virginia,South
+369,Warehouse_18,Vendor_18,3036214976,Richmond,Virginia,South
+370,Warehouse_18,Vendor_18,3036214976,Alexandria,Virginia,South
+371,Warehouse_18,Vendor_18,3036214976,Virginia Beach,Virginia,South
+372,Warehouse_18,Vendor_18,3036214976,Harrisonburg,Virginia,South
+373,Warehouse_18,Vendor_18,3036214976,Salem,Virginia,South
+374,Warehouse_18,Vendor_18,3036214976,Suffolk,Virginia,South
+375,Warehouse_18,Vendor_18,3036214976,Charlottesville,Virginia,South
+376,Warehouse_18,Vendor_18,3036214976,Chesapeake,Virginia,South
+377,Warehouse_18,Vendor_18,3036214976,Newport News,Virginia,South
+378,Warehouse_18,Vendor_18,3036214976,Hampton,Virginia,South
+379,Warehouse_19,Vendor_19,2833125738,Memphis,Tennessee,South
+380,Warehouse_19,Vendor_19,2833125738,Bristol,Tennessee,South
+381,Warehouse_19,Vendor_19,2833125738,Franklin,Tennessee,South
+382,Warehouse_19,Vendor_19,2833125738,Columbia,Tennessee,South
+383,Warehouse_19,Vendor_19,2833125738,Murfreesboro,Tennessee,South
+384,Warehouse_19,Vendor_19,2833125738,Jackson,Tennessee,South
+385,Warehouse_19,Vendor_19,2833125738,Smyrna,Tennessee,South
+386,Warehouse_19,Vendor_19,2833125738,Johnson City,Tennessee,South
+387,Warehouse_19,Vendor_19,2833125738,Knoxville,Tennessee,South
+388,Warehouse_19,Vendor_19,2833125738,Clarksville,Tennessee,South
+389,Warehouse_19,Vendor_19,2833125738,Nashville,Tennessee,South
+390,Warehouse_19,Vendor_19,2833125738,Chattanooga,Tennessee,South
+391,Warehouse_19,Vendor_19,2833125738,Bartlett,Tennessee,South
+392,Warehouse_19,Vendor_19,2833125738,Lebanon,Tennessee,South
+393,Warehouse_19,Vendor_19,2833125738,Hendersonville,Tennessee,South
+394,Warehouse_20,Vendor_20,1952565035,Decatur,Alabama,South
+395,Warehouse_20,Vendor_20,1952565035,Montgomery,Alabama,South
+396,Warehouse_20,Vendor_20,1952565035,Florence,Alabama,South
+397,Warehouse_20,Vendor_20,1952565035,Mobile,Alabama,South
+398,Warehouse_20,Vendor_20,1952565035,Auburn,Alabama,South
+399,Warehouse_20,Vendor_20,1952565035,Huntsville,Alabama,South
+400,Warehouse_20,Vendor_20,1952565035,Hoover,Alabama,South
+401,Warehouse_20,Vendor_20,1952565035,Tuscaloosa,Alabama,South
+402,Warehouse_21,Vendor_21,3317828023,Columbia,South Carolina,South
+403,Warehouse_21,Vendor_21,3317828023,Florence,South Carolina,South
+404,Warehouse_21,Vendor_21,3317828023,North Charleston,South Carolina,South
+405,Warehouse_21,Vendor_21,3317828023,Summerville,South Carolina,South
+406,Warehouse_21,Vendor_21,3317828023,Mount Pleasant,South Carolina,South
+407,Warehouse_21,Vendor_21,3317828023,Rock Hill,South Carolina,South
+408,Warehouse_22,Vendor_22,1128469540,Portland,Oregon,West
+409,Warehouse_22,Vendor_22,1128469540,Salem,Oregon,West
+410,Warehouse_22,Vendor_22,1128469540,Tigard,Oregon,West
+411,Warehouse_22,Vendor_22,1128469540,Redmond,Oregon,West
+412,Warehouse_22,Vendor_22,1128469540,Medford,Oregon,West
+413,Warehouse_22,Vendor_22,1128469540,Springfield,Oregon,West
+414,Warehouse_22,Vendor_22,1128469540,Gresham,Oregon,West
+415,Warehouse_22,Vendor_22,1128469540,Eugene,Oregon,West
+416,Warehouse_22,Vendor_22,1128469540,Hillsboro,Oregon,West
+417,Warehouse_23,Vendor_23,4793010918,Aurora,Colorado,West
+418,Warehouse_23,Vendor_23,4793010918,Denver,Colorado,West
+419,Warehouse_23,Vendor_23,4793010918,Colorado Springs,Colorado,West
+420,Warehouse_23,Vendor_23,4793010918,Arvada,Colorado,West
+421,Warehouse_23,Vendor_23,4793010918,Louisville,Colorado,West
+422,Warehouse_23,Vendor_23,4793010918,Parker,Colorado,West
+423,Warehouse_23,Vendor_23,4793010918,Pueblo,Colorado,West
+424,Warehouse_23,Vendor_23,4793010918,Broomfield,Colorado,West
+425,Warehouse_23,Vendor_23,4793010918,Littleton,Colorado,West
+426,Warehouse_23,Vendor_23,4793010918,Fort Collins,Colorado,West
+427,Warehouse_23,Vendor_23,4793010918,Englewood,Colorado,West
+428,Warehouse_23,Vendor_23,4793010918,Thornton,Colorado,West
+429,Warehouse_23,Vendor_23,4793010918,Loveland,Colorado,West
+430,Warehouse_23,Vendor_23,4793010918,Commerce City,Colorado,West
+431,Warehouse_23,Vendor_23,4793010918,Longmont,Colorado,West
+432,Warehouse_23,Vendor_23,4793010918,Greeley,Colorado,West
+433,Warehouse_24,Vendor_24,202591364,Urbandale,Iowa,Central
+434,Warehouse_24,Vendor_24,202591364,Des Moines,Iowa,Central
+435,Warehouse_24,Vendor_24,202591364,Burlington,Iowa,Central
+436,Warehouse_24,Vendor_24,202591364,Cedar Rapids,Iowa,Central
+437,Warehouse_24,Vendor_24,202591364,Dubuque,Iowa,Central
+438,Warehouse_24,Vendor_24,202591364,Iowa City,Iowa,Central
+439,Warehouse_24,Vendor_24,202591364,Waterloo,Iowa,Central
+440,Warehouse_24,Vendor_24,202591364,Marion,Iowa,Central
+441,Warehouse_25,Vendor_25,2669460309,Columbus,Ohio,East
+442,Warehouse_25,Vendor_25,2669460309,Newark,Ohio,East
+443,Warehouse_25,Vendor_25,2669460309,Hamilton,Ohio,East
+444,Warehouse_25,Vendor_25,2669460309,Akron,Ohio,East
+445,Warehouse_25,Vendor_25,2669460309,Medina,Ohio,East
+446,Warehouse_25,Vendor_25,2669460309,Dublin,Ohio,East
+447,Warehouse_25,Vendor_25,2669460309,Cincinnati,Ohio,East
+448,Warehouse_25,Vendor_25,2669460309,Springfield,Ohio,East
+449,Warehouse_25,Vendor_25,2669460309,Grove City,Ohio,East
+450,Warehouse_25,Vendor_25,2669460309,Cleveland,Ohio,East
+451,Warehouse_25,Vendor_25,2669460309,Lorain,Ohio,East
+452,Warehouse_25,Vendor_25,2669460309,Toledo,Ohio,East
+453,Warehouse_25,Vendor_25,2669460309,Cuyahoga Falls,Ohio,East
+454,Warehouse_25,Vendor_25,2669460309,Parma,Ohio,East
+455,Warehouse_25,Vendor_25,2669460309,Fairfield,Ohio,East
+456,Warehouse_25,Vendor_25,2669460309,Lakewood,Ohio,East
+457,Warehouse_25,Vendor_25,2669460309,Kent,Ohio,East
+458,Warehouse_25,Vendor_25,2669460309,Marion,Ohio,East
+459,Warehouse_25,Vendor_25,2669460309,Bowling Green,Ohio,East
+460,Warehouse_25,Vendor_25,2669460309,Lancaster,Ohio,East
+461,Warehouse_25,Vendor_25,2669460309,Troy,Ohio,East
+462,Warehouse_25,Vendor_25,2669460309,Mentor,Ohio,East
+463,Warehouse_25,Vendor_25,2669460309,Elyria,Ohio,East
+464,Warehouse_25,Vendor_25,2669460309,Mason,Ohio,East
+465,Warehouse_26,Vendor_26,1175147503,Independence,Missouri,Central
+466,Warehouse_26,Vendor_26,1175147503,Gladstone,Missouri,Central
+467,Warehouse_26,Vendor_26,1175147503,Jefferson City,Missouri,Central
+468,Warehouse_26,Vendor_26,1175147503,Saint Peters,Missouri,Central
+469,Warehouse_26,Vendor_26,1175147503,Springfield,Missouri,Central
+470,Warehouse_26,Vendor_26,1175147503,Columbia,Missouri,Central
+471,Warehouse_26,Vendor_26,1175147503,Saint Louis,Missouri,Central
+472,Warehouse_26,Vendor_26,1175147503,Kirkwood,Missouri,Central
+473,Warehouse_26,Vendor_26,1175147503,Saint Charles,Missouri,Central
+474,Warehouse_27,Vendor_27,4182092014,Edmond,Oklahoma,Central
+475,Warehouse_27,Vendor_27,4182092014,Norman,Oklahoma,Central
+476,Warehouse_27,Vendor_27,4182092014,Tulsa,Oklahoma,Central
+477,Warehouse_27,Vendor_27,4182092014,Muskogee,Oklahoma,Central
+478,Warehouse_27,Vendor_27,4182092014,Oklahoma City,Oklahoma,Central
+479,Warehouse_27,Vendor_27,4182092014,Broken Arrow,Oklahoma,Central
+480,Warehouse_27,Vendor_27,4182092014,Lawton,Oklahoma,Central
+481,Warehouse_28,Vendor_28,1172572057,Carlsbad,New Mexico,West
+482,Warehouse_28,Vendor_28,1172572057,Farmington,New Mexico,West
+483,Warehouse_28,Vendor_28,1172572057,Albuquerque,New Mexico,West
+484,Warehouse_28,Vendor_28,1172572057,Las Cruces,New Mexico,West
+485,Warehouse_28,Vendor_28,1172572057,Santa Fe,New Mexico,West
+486,Warehouse_28,Vendor_28,1172572057,Clovis,New Mexico,West
+487,Warehouse_28,Vendor_28,1172572057,Rio Rancho,New Mexico,West
+488,Warehouse_29,Vendor_29,4489821934,Monroe,Louisiana,South
+489,Warehouse_29,Vendor_29,4489821934,Bossier City,Louisiana,South
+490,Warehouse_29,Vendor_29,4489821934,Lafayette,Louisiana,South
+491,Warehouse_29,Vendor_29,4489821934,Lake Charles,Louisiana,South
+492,Warehouse_29,Vendor_29,4489821934,Kenner,Louisiana,South
+493,Warehouse_30,Vendor_30,1044622861,Fairfield,Connecticut,East
+494,Warehouse_30,Vendor_30,1044622861,Manchester,Connecticut,East
+495,Warehouse_30,Vendor_30,1044622861,Norwich,Connecticut,East
+496,Warehouse_30,Vendor_30,1044622861,Middletown,Connecticut,East
+497,Warehouse_30,Vendor_30,1044622861,Meriden,Connecticut,East
+498,Warehouse_30,Vendor_30,1044622861,Bristol,Connecticut,East
+499,Warehouse_30,Vendor_30,1044622861,Waterbury,Connecticut,East
+500,Warehouse_30,Vendor_30,1044622861,Milford,Connecticut,East
+501,Warehouse_30,Vendor_30,1044622861,Shelton,Connecticut,East
+502,Warehouse_30,Vendor_30,1044622861,Danbury,Connecticut,East
+503,Warehouse_31,Vendor_31,369016694,Westfield,New Jersey,East
+504,Warehouse_31,Vendor_31,369016694,Morristown,New Jersey,East
+505,Warehouse_31,Vendor_31,369016694,Belleville,New Jersey,East
+506,Warehouse_31,Vendor_31,369016694,Lakewood,New Jersey,East
+507,Warehouse_31,Vendor_31,369016694,Hackensack,New Jersey,East
+508,Warehouse_31,Vendor_31,369016694,Plainfield,New Jersey,East
+509,Warehouse_31,Vendor_31,369016694,Linden,New Jersey,East
+510,Warehouse_31,Vendor_31,369016694,New Brunswick,New Jersey,East
+511,Warehouse_31,Vendor_31,369016694,Vineland,New Jersey,East
+512,Warehouse_31,Vendor_31,369016694,Bridgeton,New Jersey,East
+513,Warehouse_31,Vendor_31,369016694,Bayonne,New Jersey,East
+514,Warehouse_31,Vendor_31,369016694,Paterson,New Jersey,East
+515,Warehouse_31,Vendor_31,369016694,Perth Amboy,New Jersey,East
+516,Warehouse_31,Vendor_31,369016694,Passaic,New Jersey,East
+517,Warehouse_31,Vendor_31,369016694,Orange,New Jersey,East
+518,Warehouse_31,Vendor_31,369016694,Atlantic City,New Jersey,East
+519,Warehouse_31,Vendor_31,369016694,Clifton,New Jersey,East
+520,Warehouse_31,Vendor_31,369016694,East Orange,New Jersey,East
+521,Warehouse_32,Vendor_32,101419003,Lowell,Massachusetts,East
+522,Warehouse_32,Vendor_32,101419003,Franklin,Massachusetts,East
+523,Warehouse_32,Vendor_32,101419003,Lawrence,Massachusetts,East
+524,Warehouse_32,Vendor_32,101419003,New Bedford,Massachusetts,East
+525,Warehouse_32,Vendor_32,101419003,Everett,Massachusetts,East
+526,Warehouse_32,Vendor_32,101419003,Leominster,Massachusetts,East
+527,Warehouse_32,Vendor_32,101419003,Quincy,Massachusetts,East
+528,Warehouse_32,Vendor_32,101419003,Malden,Massachusetts,East
+529,Warehouse_32,Vendor_32,101419003,Holyoke,Massachusetts,East
+530,Warehouse_32,Vendor_32,101419003,Revere,Massachusetts,East
+531,Warehouse_32,Vendor_32,101419003,Cambridge,Massachusetts,East
+532,Warehouse_32,Vendor_32,101419003,Beverly,Massachusetts,East
+533,Warehouse_32,Vendor_32,101419003,Andover,Massachusetts,East
+534,Warehouse_32,Vendor_32,101419003,Marlborough,Massachusetts,East
+535,Warehouse_33,Vendor_33,1190695371,Columbus,Georgia,South
+536,Warehouse_33,Vendor_33,1190695371,Atlanta,Georgia,South
+537,Warehouse_33,Vendor_33,1190695371,Warner Robins,Georgia,South
+538,Warehouse_33,Vendor_33,1190695371,Roswell,Georgia,South
+539,Warehouse_33,Vendor_33,1190695371,Macon,Georgia,South
+540,Warehouse_33,Vendor_33,1190695371,Smyrna,Georgia,South
+541,Warehouse_33,Vendor_33,1190695371,Sandy Springs,Georgia,South
+542,Warehouse_33,Vendor_33,1190695371,Athens,Georgia,South
+543,Warehouse_33,Vendor_33,1190695371,Marietta,Georgia,South
+544,Warehouse_33,Vendor_33,1190695371,East Point,Georgia,South
+545,Warehouse_33,Vendor_33,1190695371,Woodstock,Georgia,South
+546,Warehouse_34,Vendor_34,4319465292,Las Vegas,Nevada,West
+547,Warehouse_34,Vendor_34,4319465292,Reno,Nevada,West
+548,Warehouse_34,Vendor_34,4319465292,North Las Vegas,Nevada,West
+549,Warehouse_34,Vendor_34,4319465292,Henderson,Nevada,West
+550,Warehouse_34,Vendor_34,4319465292,Sparks,Nevada,West
+551,Warehouse_35,Vendor_35,1731040041,Warwick,Rhode Island,East
+552,Warehouse_35,Vendor_35,1731040041,Providence,Rhode Island,East
+553,Warehouse_35,Vendor_35,1731040041,Woonsocket,Rhode Island,East
+554,Warehouse_35,Vendor_35,1731040041,Cranston,Rhode Island,East
+555,Warehouse_36,Vendor_36,3753406746,Jackson,Mississippi,South
+556,Warehouse_36,Vendor_36,3753406746,Gulfport,Mississippi,South
+557,Warehouse_36,Vendor_36,3753406746,Southaven,Mississippi,South
+558,Warehouse_36,Vendor_36,3753406746,Hattiesburg,Mississippi,South
+559,Warehouse_37,Vendor_37,251428230,Fayetteville,Arkansas,South
+560,Warehouse_37,Vendor_37,251428230,Jonesboro,Arkansas,South
+561,Warehouse_37,Vendor_37,251428230,Little Rock,Arkansas,South
+562,Warehouse_37,Vendor_37,251428230,Hot Springs,Arkansas,South
+563,Warehouse_37,Vendor_37,251428230,Texarkana,Arkansas,South
+564,Warehouse_37,Vendor_37,251428230,Rogers,Arkansas,South
+565,Warehouse_37,Vendor_37,251428230,Conway,Arkansas,South
+566,Warehouse_37,Vendor_37,251428230,Pine Bluff,Arkansas,South
+567,Warehouse_37,Vendor_37,251428230,Springdale,Arkansas,South
+568,Warehouse_38,Vendor_38,368200758,Great Falls,Montana,West
+569,Warehouse_38,Vendor_38,368200758,Missoula,Montana,West
+570,Warehouse_38,Vendor_38,368200758,Bozeman,Montana,West
+571,Warehouse_38,Vendor_38,368200758,Billings,Montana,West
+572,Warehouse_38,Vendor_38,368200758,Helena,Montana,West
+573,Warehouse_39,Vendor_39,582055288,Concord,New Hampshire,East
+574,Warehouse_39,Vendor_39,582055288,Dover,New Hampshire,East
+575,Warehouse_39,Vendor_39,582055288,Nashua,New Hampshire,East
+576,Warehouse_40,Vendor_40,2864319846,Columbia,Maryland,East
+577,Warehouse_40,Vendor_40,2864319846,Clinton,Maryland,East
+578,Warehouse_40,Vendor_40,2864319846,Rockville,Maryland,East
+579,Warehouse_40,Vendor_40,2864319846,Baltimore,Maryland,East
+580,Warehouse_40,Vendor_40,2864319846,Gaithersburg,Maryland,East
+581,Warehouse_40,Vendor_40,2864319846,Laurel,Maryland,East
+582,Warehouse_40,Vendor_40,2864319846,Hagerstown,Maryland,East
+583,Warehouse_41,Vendor_41,2516163694,Washington,District of Columbia,East
+584,Warehouse_42,Vendor_42,4376431163,Olathe,Kansas,Central
+585,Warehouse_42,Vendor_42,4376431163,Overland Park,Kansas,Central
+586,Warehouse_42,Vendor_42,4376431163,Manhattan,Kansas,Central
+587,Warehouse_42,Vendor_42,4376431163,Wichita,Kansas,Central
+588,Warehouse_42,Vendor_42,4376431163,Garden City,Kansas,Central
+589,Warehouse_43,Vendor_43,1901228885,Burlington,Vermont,East
+590,Warehouse_44,Vendor_44,4410824133,Bangor,Maine,East
+591,Warehouse_44,Vendor_44,4410824133,Lewiston,Maine,East
+592,Warehouse_45,Vendor_45,4742922938,Sioux Falls,South Dakota,Central
+593,Warehouse_45,Vendor_45,4742922938,Rapid City,South Dakota,Central
+594,Warehouse_45,Vendor_45,4742922938,Aberdeen,South Dakota,Central
+595,Warehouse_46,Vendor_46,1702859785,Meridian,Idaho,West
+596,Warehouse_46,Vendor_46,1702859785,Boise,Idaho,West
+597,Warehouse_46,Vendor_46,1702859785,Lewiston,Idaho,West
+598,Warehouse_46,Vendor_46,1702859785,Pocatello,Idaho,West
+599,Warehouse_46,Vendor_46,1702859785,Caldwell,Idaho,West
+600,Warehouse_46,Vendor_46,1702859785,Twin Falls,Idaho,West
+601,Warehouse_47,Vendor_47,1299733100,Fargo,North Dakota,Central
+602,Warehouse_48,Vendor_48,1532838962,Cheyenne,Wyoming,West
+603,Warehouse_49,Vendor_49,2564096067,Wheeling,West Virginia,East
