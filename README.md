@@ -16,10 +16,10 @@ By combining intelligent algorithms and a user-friendly interface, the system he
 - **Product Recommendation Engine**  
   Uses past sales trends to recommend the most effective product inventory for different store types.
 
-- ** Space Optimization Module**  
+- **Space Optimization Module**  
   Suggests how to arrange products efficiently within the constraints of your physical store layout.
 
-- ** User Dashboard**  
+- **User Dashboard**  
   Web-based interface for uploading data, viewing reports, and adjusting parameters.
 
 - **Visual Insights**  
@@ -43,7 +43,8 @@ Set up a Python virtual environment to isolate dependencies:
 
 ```bash
 python -m venv env
-source env/bin/activate         # For Windows: env\Scripts\activate
+source env/bin/activate
+ Windows: env\Scripts\activate
 
 ```
 ### Step 3: Install Dependencies
